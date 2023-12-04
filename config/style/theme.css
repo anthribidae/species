@@ -44,3 +44,11 @@
   --color-scrollbar-thumb: 156, 163, 175;
   --color-scrollbar-track: 55, 65, 81;
 }
+
+.bg-hyp{
+  height: 500px;
+  width: 100%;
+  background-image: url("https://amymhaddad.s3.amazonaws.com/morocco-blue.png");
+   background-repeat: no-repeat;
+   background-position: center; 
+}  
