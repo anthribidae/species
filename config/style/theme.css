@@ -49,6 +49,7 @@
   height: 500px;
   width: 100%;
   background-image: url("https://github.com/anthribidae/species/blob/setup/pages/hypselotropisp.jpg?raw=true");
-   background-repeat: no-repeat;
-   background-position: center; 
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: auto;
 }  
