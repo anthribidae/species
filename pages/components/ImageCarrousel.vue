@@ -39,7 +39,7 @@ const images = [
   {
     label: 'Hypselotropis',
     copyright: 'Samanta Orellana',
-    src: hypselotropis,
+    src: './images/hypselotropis.jpg',
     otuId: 1024403
   }
 ]
