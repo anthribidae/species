@@ -10,10 +10,7 @@ layout: blank
     </em>
     </div>
   </div>
-
-        
-<GalleryCarousel :depiction-id= "[1024403]" height="500px">
-</GalleryCarousel>    
+   
 
 <div class="container mx-auto my-8 px-4 md:px-0 box-border">
   
