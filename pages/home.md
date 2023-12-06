@@ -39,3 +39,9 @@ The following collections have facilitated access to Anthribidae specimens:
 
 ## Contact us!
 Learn how to collaborate with the Anthribidae of the World Online project. Contact information, technical details, and more are available at [About](/about).
+
+
+
+[![DOI](https://zenodo.org/badge/710038059.svg)](https://zenodo.org/doi/10.5281/zenodo.10278556)
+
+
