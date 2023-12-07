@@ -25,5 +25,6 @@ Please contact us via email (sorellana[at]asu.edu) for more information.
 ## Technical
 Want to create your own site? This website is built completely on open-source software. There is a [site template](https://github.com/SpeciesFileGroup/<something>) with more information. Data are curated in a [TaxonWorks](https://taxonworks.org) project then shared via a [TaxonWorks API](https://api.taxonworks.org). Come [chat](https://gitter.im/SpeciesFileGroup/taxonworks) with the TaxonWorks community at any time.
 
+Check the latest version of the code for this site, here: [![DOI](https://zenodo.org/badge/710038059.svg)](https://zenodo.org/doi/10.5281/zenodo.10278556)
 ## Copyright
 _{{frontmatter.copyright}}_
