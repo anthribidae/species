@@ -19,9 +19,7 @@ _{{frontmatter.lead}}_
 ## Overview
 Welcome to **Anthribidae of the World Online**, a virtual catalog that aims to facilitate the search of fungus weevil taxa. The taxonomic database is actively fed on [TaxonWorks](https://taxonworks.org) following specialized scientific literature. Most specimen records and images are the product of the curation, identification, imaging and digitization of Anthribidae in the [ASU O'Brien Collection](https://ecdysis.org/collections/misc/collprofiles.php?collid=2) on the [ecdysis](https://ecdysis.org) Symbiota portal.  
 
-| [<img src="https://ecdysis.org/imglib/ecdysis/ASU_ASUCOB/ASUCOB0023/ASUCOB0023195_frontal_edited_1661910980.jpg" alt="Ptychoderes rugicollis" width="320" height="213.4">](https://anthribidae.github.io/species/#/otus/985977/overview) [<img src="https://ecdysis.org/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015451_frontal_edited_1661130102.jpg" alt="Araecerus fasciculatus" width="320" height="213.4">](https://anthribidae.github.io/species/#/otus/986068/overview)| 
-|:--:| 
-|**Anthribidae subfamilies.** 1.) Anthribinae. 2.) Choraginae. Specimens deposited at Arizona State University Biocollections (ASUCOB, ASUHIC). Images and data available at [ecdysis](https://serv.biokic.asu.edu/ecdysis/index.php) portal and [GBIF](https://gbif.org). Images: Samanta Orellana|
+[<img src="https://ecdysis.org/imglib/ecdysis/ASU_ASUCOB/ASUCOB0023/ASUCOB0023195_frontal_edited_1661910980.jpg" alt="Ptychoderes rugicollis" width="320" height="213.4">](https://anthribidae.github.io/species/#/otus/985977/overview) [<img src="https://ecdysis.org/imglib/ecdysis/ASU_ASUCOB/ASUCOB0015/ASUCOB0015451_frontal_edited_1661130102.jpg" alt="Araecerus fasciculatus" width="320" height="213.4">](https://anthribidae.github.io/species/#/otus/986068/overview)
 
 ## Curators
 
