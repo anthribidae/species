@@ -42,6 +42,6 @@ Learn how to collaborate with the Anthribidae of the World Online project. Conta
 
 
 
-[![DOI](https://zenodo.org/badge/710038059.svg)](https://zenodo.org/doi/10.5281/zenodo.10278556)
+
 
 
