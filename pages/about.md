@@ -8,7 +8,7 @@ citation: Orellana, K.S. 2023. Anthribidae of the World Onlne. Available at http
 
 # {{frontmatter.title}}
 
-The collaborative site is designed to display the diversity of Anthribidae across the world, featuring specimens curated and digitized at the O’Brien Collection (ASUCOB), during Samanta Orellana's Ph.D. research activities at Arizona State University. Other collections listed in the homepage have kindly provided specimens to illustrate this group. Additional curators specialized in different bioregions of the world help maintaining the quality of the catalog. 
+The collaborative site is designed to display the diversity of Anthribidae across the world, featuring specimens curated and digitized at the [O’Brien Collection (ASUCOB)]([url](https://ecdysis.org/collections/misc/collprofiles.php?collid=2)), during Samanta Orellana's Ph.D. research activities at Arizona State University. Other collections listed in the homepage have kindly provided specimens to illustrate this group. Additional curators specialized in different bioregions of the world help maintaining the quality of the catalog. 
 
 ![ASUCOB0014307_lateral_edited_1613605757](https://github.com/anthribidae/species/assets/69399374/76e3efef-828d-435f-8ecf-86ecc5a84955)
 
