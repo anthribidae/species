@@ -5,9 +5,12 @@ copyright: Content CC-BY or CC0. Please attribute correctly to authors and colle
 citation: Orellana, K.S. 2023. Anthribidae of the World Onlne. Available at https://anthribidae.github.io/species 
 ---
 
+
 # {{frontmatter.title}}
 
 The collaborative site is designed to display the diversity of Anthribidae across the world, featuring specimens curated and digitized at the O’Brien Collection (ASUCOB), during Samanta Orellana's Ph.D. research activities at Arizona State University. Other collections listed in the homepage have kindly provided specimens to illustrate this group. Additional curators specialized in different bioregions of the world help maintaining the quality of the catalog. 
+
+![ASUCOB0014307_lateral_edited_1613605757](https://github.com/anthribidae/species/assets/69399374/76e3efef-828d-435f-8ecf-86ecc5a84955)
 
 ## Dig deeper
 Please contact us if you need extended access to the data underlying here. The TaxonWorks interfaces used to curate these data include wide range of additional filtering, reporting, and curatorial functionality. With a little training from us we'd be happy to provide you access to this additional functionality. Over time we expect this site to gradually mirror that extended functionality.
