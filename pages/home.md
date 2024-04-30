@@ -36,10 +36,10 @@ The following collections have facilitated access to Anthribidae specimens throu
 * **SSAC**    Salvatore S. Anzaldo Research Collection, USA (Dr. Salvatore Anzaldo)
   
 ## Announcements
-* 2024-04-30 - Udates in preparation for [TaxonWorks Together 2024](https://together.taxonworks.org/)!
-* 2024-02-05 - Publication of an updated checklist of Anthribidae of Colombia ([Orellana & Girón 2024](https://revistas.humboldt.org.co/index.php/biota/article/view/1149)) with a reference to this catalog!
-* 2023-11-29 - This resource is a work in progress! Current focus is on Neotropical species and type genera of the different tribes. Complete genera: **_Eugonodes_** Jordan, **_Eugonus_** Schoenherr, **_Phaenithon_** Schoenherr, **_Corrhecerus_** Schoenherr, **_Nemotrichus_** Labram & Imhoff, **_Discotenes_** Labram & Imhoff, **_Eucyclotropis_** Jordan, **_Trachytropis_** Jordan.
-* 2023-10-25 - Our website is live!
+* **2024-04-30** - Udates in preparation for [TaxonWorks Together 2024](https://together.taxonworks.org/)!
+* **2024-02-05** - Publication of an updated checklist of Anthribidae of Colombia ([Orellana & Girón 2024](https://revistas.humboldt.org.co/index.php/biota/article/view/1149)) with a reference to this catalog!
+* **2023-11-29** - This resource is a work in progress! Current focus is on Neotropical species and type genera of the different tribes. Complete genera: **_Eugonodes_** Jordan, **_Eugonus_** Schoenherr, **_Phaenithon_** Schoenherr, **_Corrhecerus_** Schoenherr, **_Nemotrichus_** Labram & Imhoff, **_Discotenes_** Labram & Imhoff, **_Eucyclotropis_** Jordan, **_Trachytropis_** Jordan.
+* **2023-10-25** - Our website is live!
 
 ## Contact us!
 Learn how to collaborate with the Anthribidae of the World Online project. Contact information, technical details, and more are available at [About](/about).
