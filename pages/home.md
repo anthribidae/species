@@ -21,7 +21,8 @@ Welcome to **Anthribidae of the World Online**, a virtual catalog that aims to f
 
 ## Curators
 
-* **K. Samanta Orellana** ([ORCID](https://orcid.org/0000-0002-4098-5823), [Bionomia](https://bionomia.net/0000-0002-4098-5823)), Evolutionary Biology Ph.D. Candidate, Arizona State University.
+* **K. Samanta Orellana** ([ORCID](https://orcid.org/0000-0002-4098-5823), [Bionomia](https://bionomia.net/0000-0002-4098-5823)), Evolutionary Biology Ph.D. Candidate, Arizona State University, USA.
+* **Samuel Brown** ([ORCID](https://orcid.org/0000-0001-7112-421X)), New Zealand Institute for Plant and Food Research, Auckland, New Zealand.
 
 ## Collections 
 
