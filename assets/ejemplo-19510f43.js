@@ -1,0 +1,1 @@
+import{d as t,r as a,o as n,c as r,w as s,a as c}from"./index-f9a216b2.js";const _=c("div",{class:"markdown-body"},null,-1),m={},f="",i=t({__name:"ejemplo",setup(p,{expose:e}){return e({frontmatter:{},excerpt:void 0}),(d,l)=>{const o=a("markdown-layout");return n(),r(o,{frontmatter:m},{default:s(()=>[_]),_:1})}}});export{i as default,f as excerpt,m as frontmatter};
