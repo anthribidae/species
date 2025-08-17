@@ -46,7 +46,7 @@
 </template>
 
 <script setup>
-import { computed, ref, onMounted } from 'vue'
+import { ref, onMounted } from 'vue'
 import axios from 'axios'
 
 const props = defineProps({
@@ -58,11 +58,6 @@ const props = defineProps({
   perPage: {
     type: Number,
     default: 60
-  },
-
-  parameters: {
-    type: Object,
-    default: () => {}
   }
 })
 
@@ -74,19 +69,14 @@ const pagination = ref({
   total_results: 0
 })
 
-const taxonName = computed(() =>
-  props.taxon.expanded_name.replace(/\s*\([^)]+\)/g, '')
-)
-
-function loadObservations(params = {}) {
+function loadObservations(parameters = {}) {
   isLoading.value = true
 
   axios
     .get(`https://api.inaturalist.org/v1/observations`, {
       params: {
-        taxon_name: taxonName.value,
-        ...params,
-        ...props.parameters
+        taxon_name: props.taxon.expanded_name,
+        ...parameters
       }
     })
     .then(({ data }) => {
@@ -101,6 +91,11 @@ function loadObservations(params = {}) {
       isLoading.value = false
     })
 }
+
+onMounted(() => {
+  loadObservations({ per_page: props.perPage })
+})
+</script>
 
 onMounted(() => {
   loadObservations({ per_page: props.perPage })
