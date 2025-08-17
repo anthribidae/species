@@ -17,7 +17,7 @@
         </ul>
 
         <div>
-          <h3>Contributing Collections</h3>
+          <h3>Major Contributors</h3>
           <ul>
             <li
               v-for="item in CONTRIBUTORS"
@@ -50,41 +50,63 @@
             </li>
           </ul>
           <hr class="border-b-base-border" />
+          <div class="flex flex-col justify-center items-center">
+            <OSFLogo
+              class="xl:hidden w-40 text-primary-color right-0 dark:text-base-content"
+            />
+            <p class="text-center">
+              With the cooperation of
+              <a
+                class="whitespace-nowrap"
+                href="https://orthsoc.org/"
+                >The Orthopterists' Society</a
+              >
+            </p>
           </div>
-        </section>
+        </div>
+      </div>
+      <OSFLogo
+        class="hidden xl:block opacity-10 w-[40rem] text-primary-color absolute right-0 bottom-56 dark:text-base-content"
+      />
+    </div>
+  </section>
 </template>
 
 <script setup>
+import OSFLogo from '../OSFLogo.vue'
 
-  const AUTHORS = [
+const AUTHORS = [
   {
     person: 'K. Samanta Orellana',
-    position: 'Project Author',
+    position: 'Author',
     location:
-      'Biodiversity Institute and Museum of Natural History, University of Kansas, USA'
+      'Biodiversity Institute and Natural History Museum, University of Kansas, USA'
   }
 ]
 
-  const CONTRIBUTORS = [
+const CONTRIBUTORS = [
   {
-    person: '(ASUCOB, ASUHIC) Arizona State University Biocollections ',
+    person: 'ASUCOB',
     location: 'Dr. Sangmi Lee'
   },
   {
-    person: '(KUNHM) University of Kansas Biodiversity Institute and Natural History Museum',
+    person: 'KUNHM',
     location:
-      'Dr. Zack Falin and Dr. Rachel Osborn'
-  },
-  {
-    person: '(NZAC) New Zealand Arthropod Collection',
-    location:
-      'Dr. Rich Leschen'
+      'Dr. Zack Falin'
   }
 ]
-const DEVELOPERS = [
+
+const ASSISTANT_EDITORS = [
   {
-    person: 'José Luis Pereira',
-    location: 'TaxonPages'
+    person: '',
+    location: ''
+  }
+]
+
+const DEVELOPERS = [
+   {
+    person: 'TaxonPages',
+    location: 'TaxonPages Working Group'
   }
 ]
 </script>
