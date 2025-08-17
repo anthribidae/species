@@ -115,13 +115,6 @@ const CONTRIBUTORS = [
   }
 ]
 
-const ASSISTANT_EDITORS = [
-  {
-    person: '',
-    location: ''
-  }
-]
-
 const DEVELOPERS = [
    {
     person: 'TaxonPages',
