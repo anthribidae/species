@@ -28,7 +28,12 @@
             </li>
           </ul>
         </div>
-       
+        <div class="my-4">
+          
+              <span class="font-bold">{{ item.person }}</span> -
+              {{ item.location }}
+            </li>
+          </ul>
           <h2>Developers</h2>
           <ul>
             <li
