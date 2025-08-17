@@ -84,7 +84,7 @@ const CONTRIBUTORS = [
     location: 'Dr. Lee Herman'
   },
   {
-    person: 'ASUCOB-O'Brien Collection, Arizona State University, USA',
+    person: 'ASUCOB-OBrien Collection, Arizona State University, USA',
     location: 'Dr. Sangmi Lee'
   },
    {
@@ -92,11 +92,20 @@ const CONTRIBUTORS = [
     location: 'Dr. Sangmi Lee'
   },
   {
+    person: 'CIPROC-Museo de Insectos, Universidad de Costa Rica, Costa Rica',
+    location:
+      'Andrés Arias, Humberto Lezama'
+  },
+  {
     person: 'KUNHM-University of Kansas Biodiversity Institute and Natural History Museum, USA',
     location:
       'Dr. Zack Falin, Dr. Rachel Osborn'
   },
    {
+    person: 'MNCR-Museo Nacional de Costa Rica, former INBio, Costa Rica',
+    location: 'Marianela Cambronero'
+  },
+  {
     person: 'NMNH-Smithsonian National Museum of Natural History, USA',
     location: 'Dr. Lourdes Chamorro'
   },
@@ -107,6 +116,11 @@ const CONTRIBUTORS = [
   {
     person: 'SSAC-Salvatore S. Anzaldo Research Collection, USA',
     location: 'Dr. Salvatore S. Anzaldo'
+  },
+  {
+    person: 'UCRG-Universidad de Costa Rica, Sede Guanacaste, Costa Rica',
+    location:
+      'Jairo Mora'
   }
 ]
 
