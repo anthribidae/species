@@ -17,11 +17,11 @@ layout: blank
 _{{frontmatter.lead}}_
 
 ## Overview
-Welcome to **Anthribidae of the World Online**, a virtual catalog that aims to facilitate the search of fungus weevil taxa. The taxonomic database is actively fed on [TaxonWorks](https://taxonworks.org) following specialized scientific literature. Most specimen records and images are the product of the curation, identification, imaging and digitization of Anthribidae in the [ASU O'Brien Collection](https://ecdysis.org/collections/misc/collprofiles.php?collid=2) on the [ecdysis](https://ecdysis.org) Symbiota portal.  
+Welcome to **Anthribidae of the World Online**, a virtual catalog that aims to facilitate the search of fungus weevil taxa. The taxonomic database is actively fed on [TaxonWorks](https://taxonworks.org) following specialized scientific literature. Specimen records and images are the product of the curation, identification, imaging and digitization of Anthribidae shared by several collections.   
 
 ## Curators
 
-* **K. Samanta Orellana** ([ORCID](https://orcid.org/0000-0002-4098-5823), [Bionomia](https://bionomia.net/0000-0002-4098-5823)), Evolutionary Biology Ph.D. Candidate, Arizona State University, USA.
+* **K. Samanta Orellana** ([ORCID](https://orcid.org/0000-0002-4098-5823), [Bionomia](https://bionomia.net/0000-0002-4098-5823)), Postdocoral Researcher, Biodiversity Institute and Museum of Natural History, University of Kansas, USA.
 * **Samuel Brown** ([ORCID](https://orcid.org/0000-0001-7112-421X)), New Zealand Institute for Plant and Food Research, Auckland, New Zealand.
 
 ## Collections 
