@@ -12,9 +12,3 @@ taxa_page:
           - panel:content
            - panel:gbif
           - panel:statistics
-
-    inaturalist:
-    label: 'iNaturalist'
-    rank_group: ['GenusGroup', 'SpeciesGroup']
-    panels:
-      - - - panel:inaturalist
