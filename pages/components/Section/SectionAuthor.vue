@@ -49,6 +49,22 @@
               {{ item.location }}
             </li>
           </ul>
+           <hr class="border-b-base-border" />
+          <div class="flex flex-col justify-center items-center">
+            <OSFLogo
+              class="xl:hidden w-40 text-primary-color right-0 dark:text-base-content"
+            />
+            <p class="text-center">
+              With the cooperation of
+             TaxonWorks and TaxonPages Working Groups
+            </p>
+          </div>
+        </div>
+      </div>
+      <OSFLogo
+        class="hidden xl:block opacity-10 w-[40rem] text-primary-color absolute right-0 bottom-56 dark:text-base-content"
+      />
+    </div>
          </section>
 </template>
 
