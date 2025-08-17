@@ -17,7 +17,7 @@
         </ul>
 
         <div>
-          <h3>Major Contributors</h3>
+          <h3>Contributing Collections</h3>
           <ul>
             <li
               v-for="item in CONTRIBUTORS"
@@ -51,25 +51,13 @@
           </ul>
           <hr class="border-b-base-border" />
           <div class="flex flex-col justify-center items-center">
-            <OSFLogo
-              class="xl:hidden w-40 text-primary-color right-0 dark:text-base-content"
-            />
             <p class="text-center">
-              With the cooperation of
-              <a
-                class="whitespace-nowrap"
-                href="https://orthsoc.org/"
-                >The Orthopterists' Society</a
+              With the cooperation of the TaxonWorks and TaxonPages working groups</a
               >
             </p>
           </div>
         </div>
-      </div>
-      <OSFLogo
-        class="hidden xl:block opacity-10 w-[40rem] text-primary-color absolute right-0 bottom-56 dark:text-base-content"
-      />
-    </div>
-  </section>
+        </section>
 </template>
 
 <script setup>
@@ -83,6 +71,22 @@
   }
 ]
 
+  const CONTRIBUTORS = [
+  {
+    person: '(ASUCOB, ASUHIC) Arizona State University Biocollections ',
+    location: 'Dr. Sangmi Lee'
+  },
+  {
+    person: '(KUNHM) University of Kansas Biodiversity Institute and Natural History Museum',
+    location:
+      'Dr. Zack Falin and Dr. Rachel Osborn'
+  },
+  {
+    person: '(NZAC) New Zealand Arthropod Collection',
+    location:
+      'Dr. Rich Leschen'
+  }
+]
 const DEVELOPERS = [
   {
     person: 'José Luis Pereira',
