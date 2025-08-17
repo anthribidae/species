@@ -50,13 +50,7 @@
             </li>
           </ul>
           <hr class="border-b-base-border" />
-          <div class="flex flex-col justify-center items-center">
-            <p class="text-center">
-              With the cooperation of the TaxonWorks and TaxonPages working groups</a
-              >
-            </p>
           </div>
-        </div>
         </section>
 </template>
 
