@@ -24,8 +24,6 @@
 </template>
 
 <script setup>
-import { onMounted, ref, computed } from 'vue'
-import logoWID from './images/hypselotropis.png'
 
 const props = defineProps({
   duration: {
@@ -37,8 +35,7 @@ const props = defineProps({
 const images = [
 
   {
-    label: 'Hypselotropis',
-    copyright: 'Samanta Orellana',
+    label: 'Hypselotropis prasinata',
     src: './images/hypselotropis.jpg',
     otuId: 1024403
   }
