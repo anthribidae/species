@@ -55,12 +55,7 @@
               class="xl:hidden w-40 text-primary-color right-0 dark:text-base-content"
             />
             <p class="text-center">
-              With the cooperation of
-              <a
-                class="whitespace-nowrap"
-                href="https://orthsoc.org/"
-                >The Orthopterists' Society</a
-              >
+              With the cooperation of TaxonWorks and TaxonPages
             </p>
           </div>
         </div>
@@ -73,7 +68,6 @@
 </template>
 
 <script setup>
-import OSFLogo from '../OSFLogo.vue'
 
 const AUTHORS = [
   {
