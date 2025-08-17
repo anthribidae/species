@@ -17,7 +17,7 @@
         </ul>
 
         <div>
-          <h3>Major Contributors</h3>
+          <h3>Contributing Collections</h3>
           <ul>
             <li
               v-for="item in CONTRIBUTORS"
@@ -80,13 +80,33 @@ const AUTHORS = [
 
 const CONTRIBUTORS = [
   {
-    person: 'ASUCOB',
+    person: 'AMNH-American Museum of Natural History, USA',
+    location: 'Dr. Lee Herman'
+  },
+  {
+    person: 'ASUCOB-O'Brien Collection, Arizona State University, USA',
+    location: 'Dr. Sangmi Lee'
+  },
+   {
+    person: 'ASUHIC-Hasbrouck Insect Collection, Arizona State University, USA',
     location: 'Dr. Sangmi Lee'
   },
   {
-    person: 'KUNHM',
+    person: 'KUNHM-University of Kansas Biodiversity Institute and Natural History Museum, USA',
     location:
-      'Dr. Zack Falin'
+      'Dr. Zack Falin, Dr. Rachel Osborn'
+  },
+   {
+    person: 'NMNH-Smithsonian National Museum of Natural History, USA',
+    location: 'Dr. Lourdes Chamorro'
+  },
+   {
+    person: 'NZAC-New Zealand Arthropod Collection, New Zealand',
+    location: 'Dr. Richard Leschen, Grace Hall'
+  },
+  {
+    person: 'SSAC-Salvatore S. Anzaldo Research Collection, USA',
+    location: 'Dr. Salvatore S. Anzaldo'
   }
 ]
 
