@@ -10,5 +10,4 @@ taxa_page:
         - - panel:map
           - panel:descendants
           - panel:content
-           - panel:gbif
           - panel:statistics
