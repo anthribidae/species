@@ -16,7 +16,7 @@
           class="text-white"
           :to="{ name: 'otus-id', params: { id: currentImage.otuId } }"
         >
-          <i>{{ currentImage.label }}</i> © {{ currentImage.copyright }}
+          <i>{{ currentImage.label }}</i> {{ currentImage.copyright }}
         </RouterLink>
       </span>
     </div>
@@ -37,7 +37,7 @@ const props = defineProps({
 const images = [
 
   {
-    label: 'Hypselotropis prasinata',
+    label: 'Hypselotropis prasinata (Fahraeus)',
     src: header,
     otuId: 1024403
   }
