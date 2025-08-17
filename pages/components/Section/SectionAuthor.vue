@@ -73,60 +73,20 @@
 </template>
 
 <script setup>
-import OSFLogo from '../OSFLogo.vue'
 
-const AUTHORS = [
+  const AUTHORS = [
   {
-    person: 'Maria Marta Cigliano',
-    position: 'Project Director & Author',
+    person: 'K. Samanta Orellana',
+    position: 'Project Author',
     location:
-      'División Entomología. Museo de La Plata, CEPAVE - CONICET, Argentina'
-  },
-  {
-    person: 'Holger Braun',
-    position: 'Author & Editor',
-    location: 'División Entomología, Museo de La Plata, Argentina'
-  },
-  {
-    person: 'David C. Eades',
-    position:
-      'Founder of the Species File Group, Data base Developer of Species File Software',
-    location: 'Illinois Natural History Survey, USA'
-  },
-  {
-    person: 'Daniel Otte',
-    position: 'Founder and Original Author',
-    location: 'Academy of Natural Sciences of Philadelphia, USA'
-  }
-]
-
-const CONTRIBUTORS = [
-  {
-    person: 'Piotr Naskrecki',
-    location: 'Museum of Comparative Zoology, Harvard University'
-  },
-  {
-    person: 'Martina Eugenia Pocco',
-    location:
-      'CEPAVE - CONICET, División Entomología, Museo de La Plata, Argentina'
-  }
-]
-
-const ASSISTANT_EDITORS = [
-  {
-    person: 'María Belén Cabrera',
-    location: 'División Entomología, Museo de La Plata, Argentina'
+      'Biodiversity Institute and Museum of Natural History, University of Kansas, USA'
   }
 ]
 
 const DEVELOPERS = [
   {
-    person: 'Hernán Lucas Pereira',
-    location: 'CEPAVE - CONICET, Argentina'
-  },
-  {
     person: 'José Luis Pereira',
-    location: 'División Entomología, Museo de La Plata, Argentina'
+    location: 'TaxonPages'
   }
 ]
 </script>
