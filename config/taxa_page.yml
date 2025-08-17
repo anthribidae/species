@@ -11,3 +11,12 @@ taxa_page:
           - panel:descendants
           - panel:content
           - panel:statistics
+
+    inaturalist:
+      label: 'iNaturalist'
+      rank_group: ['GenusGroup', 'SpeciesGroup']
+    panels:
+      - - - id: panel:inaturalist
+            bind:
+              parameters:
+                taxon_id: 172909 # The `taxon_id` parameter is used as a scope to limit the search to the Anthribidae family.
