@@ -29,7 +29,12 @@
           </ul>
         </div>
         <div class="my-4">
-          
+
+          <ul>
+            <li
+              v-for="item in ASSISTANT_EDITORS"
+              :key="item.person"
+            >
               <span class="font-bold">{{ item.person }}</span> -
               {{ item.location }}
             </li>
