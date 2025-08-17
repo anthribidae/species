@@ -38,7 +38,7 @@ const images = [
 
   {
     label: 'Hypselotropis prasinata',
-    src: './images/hypselotropis.jpg',
+    src: header,
     otuId: 1024403
   }
 ]
