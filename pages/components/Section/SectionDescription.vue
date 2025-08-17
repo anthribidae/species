@@ -4,7 +4,14 @@
       <div class="prose !container dark:prose-invert">
         <div>
           <p>
-            Welcome to **Anthribidae of the World Online**, a virtual catalog that aims to facilitate the search of fungus weevil taxa. The taxonomic database is actively fed on [TaxonWorks](https://taxonworks.org) following specialized scientific literature. Specimen records and images are the product of the curation, identification, imaging and digitization of Anthribidae shared by several collections.   
+            Welcome to <strong class="font-semibold"> Anthribidae of the World Online</strong>, a virtual catalog that aims to facilitate the search of fungus weevil taxa. The taxonomic database is actively fed on <a 
+      href="https://taxonworks.org" 
+      class="no-underline text-gray-700 font-medium hover:text-gray-900 hover:underline focus:outline-none focus:ring-2 focus:ring-gray-400 transition"
+      target="_blank" 
+      rel="noopener noreferrer"
+    >
+      TaxonWorks
+    </a> following specialized scientific literature. Specimen records and images are the product of the curation, identification, imaging and digitization of Anthribidae shared by several collections.   
           </p>
          </div>
       </div>
