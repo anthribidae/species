@@ -3,15 +3,13 @@
     <div class="prose !container mx-auto dark:prose-invert">
       <h2>Find out more</h2>
       <p>
-        Find out more on this new public version of OSF. Learn how to
-        collaborate with the Orthoptera Species File project. Contact
-        information, technical details, and more are available at
+        Learn how to collaborate with the Anthribidae of the World Online project. Contact information, technical details, and more are available at
         <RouterLink to="about">About.</RouterLink>
       </p>
       <h2>Format for referencing this website</h2>
       <p>
         When referencing this website, please use the following format:
-        Cigliano, M.M., H. Braun, D.C. Eades & D. Otte. Orthoptera Species File
+        Orellana, K.S. Anthribidae of the World Online
         [retrieval date]. &lt;
         <a :href="project_url">
           {{ project_url }}
