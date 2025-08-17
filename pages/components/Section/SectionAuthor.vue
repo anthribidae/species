@@ -80,47 +80,47 @@ const AUTHORS = [
 
 const CONTRIBUTORS = [
   {
-    person: 'AMNH-American Museum of Natural History, USA',
-    location: 'Dr. Lee Herman'
+    person: 'AMNH-',
+    location: 'American Museum of Natural History, USA (Lee Herman)'
   },
   {
-    person: 'ASUCOB-OBrien Collection, Arizona State University, USA',
-    location: 'Dr. Sangmi Lee'
+    person: 'ASUCOB-',
+    location: 'OBrien Collection, Arizona State University, USA (Sangmi Lee)'
   },
    {
-    person: 'ASUHIC-Hasbrouck Insect Collection, Arizona State University, USA',
-    location: 'Dr. Sangmi Lee'
+    person: 'ASUHIC-',
+    location: 'Hasbrouck Insect Collection, Arizona State University, USA (Sangmi Lee)'
   },
   {
-    person: 'CIPROC-Museo de Insectos, Universidad de Costa Rica, Costa Rica',
+    person: 'CIPROC-',
     location:
-      'Andrés Arias, Humberto Lezama'
+      'Museo de Insectos, Universidad de Costa Rica, Costa Rica (Andrés Arias, Humberto Lezama)'
   },
   {
-    person: 'KUNHM-University of Kansas Biodiversity Institute and Natural History Museum, USA',
+    person: 'KUNHM-',
     location:
-      'Dr. Zack Falin, Dr. Rachel Osborn'
+      'University of Kansas Biodiversity Institute and Natural History Museum, USA (Zack Falin, Rachel Osborn)'
   },
    {
-    person: 'MNCR-Museo Nacional de Costa Rica, former INBio, Costa Rica',
-    location: 'Marianela Cambronero'
+    person: 'MNCR-',
+    location: 'Museo Nacional de Costa Rica, former INBio, Costa Rica (Marianela Cambronero)'
   },
   {
-    person: 'NMNH-Smithsonian National Museum of Natural History, USA',
-    location: 'Dr. Lourdes Chamorro'
+    person: 'NMNH-',
+    location: 'Smithsonian National Museum of Natural History, USA (Dr. Lourdes Chamorro)'
   },
    {
-    person: 'NZAC-New Zealand Arthropod Collection, New Zealand',
-    location: 'Dr. Richard Leschen, Grace Hall'
+    person: 'NZAC-',
+    location: 'New Zealand Arthropod Collection, New Zealand (Richard Leschen, Grace Hall)'
   },
   {
-    person: 'SSAC-Salvatore S. Anzaldo Research Collection, USA',
-    location: 'Dr. Salvatore S. Anzaldo'
+    person: 'SSAC-',
+    location: 'Salvatore S. Anzaldo Research Collection, USA (Dr. Salvatore S. Anzaldo)'
   },
   {
-    person: 'UCRG-Universidad de Costa Rica, Sede Guanacaste, Costa Rica',
+    person: 'UCRG-',
     location:
-      'Jairo Mora'
+      'Universidad de Costa Rica, Sede Guanacaste, Costa Rica (Jairo Mora)'
   }
 ]
 
