@@ -92,7 +92,7 @@ const CONTRIBUTORS = [
   },
   {
     person: 'NMNH-',
-    location: 'Smithsonian National Museum of Natural History, USA (Dr. Lourdes Chamorro)'
+    location: 'Smithsonian National Museum of Natural History, USA (Lourdes Chamorro)'
   },
    {
     person: 'NZAC-',
@@ -100,7 +100,7 @@ const CONTRIBUTORS = [
   },
   {
     person: 'SSAC-',
-    location: 'Salvatore S. Anzaldo Research Collection, USA (Dr. Salvatore S. Anzaldo)'
+    location: 'Salvatore S. Anzaldo Research Collection, USA (Salvatore S. Anzaldo)'
   },
   {
     person: 'UCRG-',
