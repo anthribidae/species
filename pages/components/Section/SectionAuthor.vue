@@ -17,7 +17,7 @@
         </ul>
 
         <div>
-          <h3>Contributing Collections</h3>
+          <h2>Contributing Collections</h2>
           <ul>
             <li
               v-for="item in CONTRIBUTORS"
@@ -39,7 +39,7 @@
               {{ item.location }}
             </li>
           </ul>
-          <h3>Developers</h3>
+          <h2>Developers</h2>
           <ul>
             <li
               v-for="item in DEVELOPERS"
