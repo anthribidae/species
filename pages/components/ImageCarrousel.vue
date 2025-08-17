@@ -25,7 +25,8 @@
 
 <script setup>
 import { onMounted, ref, computed } from 'vue'
-
+import header from './images/hypselotropis.png'
+  
 const props = defineProps({
   duration: {
     type: Number,
