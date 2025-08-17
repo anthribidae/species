@@ -4,7 +4,7 @@
       class="object-cover overflow-hidden h-[550px] w-full absolute"
       :key="currentImage.src"
       :src="currentImage.src"
-      alt="Dichroplus maculipennis"
+      alt=""
     />
     <div class="bg-black bg-opacity-25 absolute h-full w-full top-0">
       <slot />
