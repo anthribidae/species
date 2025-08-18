@@ -12,11 +12,8 @@ The collaborative site is designed to display the diversity of Anthribidae acros
 
 ![ASUCOB0014307_lateral_edited_1613605757](https://github.com/anthribidae/species/assets/69399374/76e3efef-828d-435f-8ecf-86ecc5a84955)
 
-## Dig deeper
-Please contact us if you need extended access to the data underlying here. The TaxonWorks interfaces used to curate these data include wide range of additional filtering, reporting, and curatorial functionality. With a little training from us we'd be happy to provide you access to this additional functionality. Over time we expect this site to gradually mirror that extended functionality.
-
 ## Contact
-Please contact us via email (sorellana[at]asu.edu) for more information.   
+Please contact us via email (samanta.orellana[at]ku.edu) for more information.   
 
 ## Citing
 * This website - {{frontmatter.citation}}
