@@ -11,4 +11,5 @@ taxa_page:
           - panel:descendants
           - panel:content
           - panel:gbif
+          -panel:inaturalist
           - panel:statistics
